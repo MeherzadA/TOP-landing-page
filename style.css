@@ -69,7 +69,49 @@
     padding: 7px 27px;
     border: none;
     border-radius: 6px;
+}
 
+.section2-container{
+    display: flex;
+    flex-direction: column;
+  
+    gap: 50px;
+    /* background-color: blue; */
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 120px;
 
 }
+
+.info-header-txt{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    /* background-color: green; */
+
+}
+
+.dog-info-container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    text-wrap: wrap;
+    /* background-color: red; */
+    gap: 15px;
+    
+}
+
+.img-container{
+    width: 250px;
+}
+
+.section2-img{
+    width: 250px;
+    max-width: 100%;
+}
+
+
 
