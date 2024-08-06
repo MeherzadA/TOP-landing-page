@@ -113,5 +113,32 @@
     max-width: 100%;
 }
 
+.section3-container{
+    background-color: #E5E7EB;
+    padding-top: 120px;
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quote{
+    display: flex;
+    font-size: 35px;
+    font-style: italic;
+    /* background-color: blue; */
+}
+
+.author{
+    /* background-color: red; */
+    font-size: 25px;
+    color: #1F2937;
+    font-weight: bold;
+    text-align: end;
+
+}
+
 
 
