@@ -96,7 +96,7 @@
 
 .dog-info-container{
     display: flex;
-    align-items: flex-end;
+    align-items: baseline;
     justify-content: center;
     text-align: center;
     text-wrap: wrap;
