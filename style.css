@@ -23,6 +23,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 10px;
     /* padding: 10px; */
 }
 
@@ -173,6 +174,14 @@
 .actn-subhead{
     color: white;
     font-size: 18px;
+}
+
+.footer{
+    background-color: #1F2937;
+    text-align: center;
+    padding: 20px 0px;
+    color: white;
+    font-size: 14px;
 }
 
 
